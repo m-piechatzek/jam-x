@@ -1,2 +1,2 @@
 # jam-x
-Educational game for children with visual dyslexia
+Design Project Phase 3: Final Product. Educational game for children with visual dyslexia.
